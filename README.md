@@ -28,9 +28,9 @@ qr_security_api/
 └── package.json      # Dependencies & scripts
 
 
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/4887000c-16fc-4d6a-b98f-bffee66ee9c7" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4887000c-16fc-4d6a-b98f-bffee66ee9c7" />
 
 
-<img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/d66071da-9361-4326-b150-457209b97d32" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/d66071da-9361-4326-b150-457209b97d32" />
 
 
